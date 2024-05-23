@@ -10,50 +10,6 @@
     "slnt" 0;
 }
 
-/* 웹폰트2 */
-/* .inknut-antiqua-light {
-  font-family: "Inknut Antiqua", serif;
-  font-weight: 300;
-  font-style: normal;
-}
-
-.inknut-antiqua-regular {
-  font-family: "Inknut Antiqua", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.inknut-antiqua-medium {
-  font-family: "Inknut Antiqua", serif;
-  font-weight: 500;
-  font-style: normal;
-}
-
-.inknut-antiqua-semibold {
-  font-family: "Inknut Antiqua", serif;
-  font-weight: 600;
-  font-style: normal;
-}
-
-.inknut-antiqua-bold {
-  font-family: "Inknut Antiqua", serif;
-  font-weight: 700;
-  font-style: normal;
-}
-
-.inknut-antiqua-extrabold {
-  font-family: "Inknut Antiqua", serif;
-  font-weight: 800;
-  font-style: normal;
-}
-
-.inknut-antiqua-black {
-  font-family: "Inknut Antiqua", serif;
-  font-weight: 900;
-  font-style: normal;
-} */
-
-
 html {
   /* Prevent font scaling in landscape */
 
@@ -910,13 +866,15 @@ button{
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-
 .section6_box .text_wrap a{
   text-decoration: underline;
   display: block;
   font-size: 13px;
   margin-top: 10px;
   color: #fff;
+}
+.section6_box .text_wrap a:hover{
+  color: #bbb;
 }
 
 
